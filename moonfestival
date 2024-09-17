@@ -1,1 +1,26 @@
+<!DOCTYPE html> <!--doctype宣告-->
+<html lang="en"> <!--"en"為英文文件-->
+<head>
+    <meta charset="UTF-8"> <!--UTF-8編碼-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--mata為內容概要-->
+    <title>moon festival</title>
+	<style>
+		body{
+				background-color: #fff5ee;
+			}
+			p{font-family: "STKaiti"；}
+	<\style>
+</head>
+<body>
+    <h1>HAPPY MOON FESTIVAL</h1>
+	<img src="moon.png" alt="moon" />
+	<br>
+	<p>哈囉哈囉 中秋節快樂啊</p>
+	<p>你看到這篇奇奇怪怪的東西</p>
+	<p>代表我們是朋友（？）</p>
+	<p>也代表我很懶 懶得一個一個發</p>
+	<p>好啦好啦 謝謝你看到現在</p>
+	<p>祝你開開心心 心想生成喔！</p>
+</body>
+</html>
 
